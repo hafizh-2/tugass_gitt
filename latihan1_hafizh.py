@@ -17,4 +17,4 @@ if N > 0:
     hasil = fibonacci(N)
     print(f"Deret Fibonacci sebanyak {N} bilangan adalah: {hasil}")
 else:
-    print("Masukkan bilangan positif.")
+    print("Masukkan bilangan positifff.")
